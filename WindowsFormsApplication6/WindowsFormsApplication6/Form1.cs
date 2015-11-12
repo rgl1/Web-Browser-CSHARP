@@ -48,7 +48,7 @@ namespace WindowsFormsApplication6
             }
         }
         private async void btnGo_Click(object sender, EventArgs e)
-        {
+        {   //this is the GO button..
             //Check if the website URL entered has http
             if (!textBox1.Text.Contains("http"))
             {

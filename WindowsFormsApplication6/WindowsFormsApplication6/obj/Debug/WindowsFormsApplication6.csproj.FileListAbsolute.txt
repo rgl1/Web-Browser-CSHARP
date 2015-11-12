@@ -12,3 +12,6 @@ C:\Users\Russell\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\
 C:\Users\Russell\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.application
 C:\Users\Russell\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe.manifest
 C:\Users\Russell\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.application
+C:\Users\Russell\Documents\GitHub\Web-Browser-CSHARP\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Russell\Documents\GitHub\Web-Browser-CSHARP\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Russell\Documents\GitHub\Web-Browser-CSHARP\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
